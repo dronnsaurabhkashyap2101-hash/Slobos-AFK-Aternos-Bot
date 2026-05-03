@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DeepShade0.aternos.me",
-    "port": 22674,
+    "ip": "DeepShade01.aternos.me",
+    "port": 24656,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
